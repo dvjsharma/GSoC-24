@@ -1,0 +1,20 @@
+# Week 9 meeting and activities
+
+_(July 23,2024)_
+
+## Attendees
+
+-   [Divij Sharma](https://github.com/dvjsharma)
+-   Katharina Ettinger
+-   [Shaheem Azmal M MD](https://github.com/shaheemazmalmmd)
+
+## Discussion
+
+-   Shaheem shared the updates on the JSON export/import of licenses and obligations. The implementation is almost done and is in the final stages of testing.
+-   The same JSON export/import feature needs to be implemented over the REST API.
+-   Discussed the integration test-case development for the REST API.
+
+## Activities
+
+-   Worked on making improvements in the REST API implementation.
+-   Understood the implementation of JSON export/import of licenses and obligations.
